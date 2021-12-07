@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.1.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-cluster": "^0.22.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "name": "emailyeeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scrape": "node scrape.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
